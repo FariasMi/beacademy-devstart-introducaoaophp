@@ -1,3 +1,0 @@
-Estrutura sequencial
-Estrutura de Decisão
-Estrutura de Repetição
