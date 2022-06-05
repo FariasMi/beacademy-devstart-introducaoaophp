@@ -97,12 +97,12 @@ inicie o servidor novamente com o nome da pasta do exercício
     
 ```
 
-[Aula 1](modulo01/aula01/) <br>
-[Aula 2](modulo01/aula02/) <br> 
-[Aula 3](modulo01/aula03/) <br> 
-[Aula 4](modulo01/aula04/) <br> 
-[Aula 5](modulo01/aula05/) <br> 
-[Aula 6](modulo01/aula06/) <br> 
+[Aula 1](./aula01/) <br>
+[Aula 2](./aula02/) <br> 
+[Aula 3](./aula03/) <br> 
+[Aula 4](./aula04/) <br> 
+[Aula 5](./aula05/) <br> 
+[Aula 6](./aula06/) <br>
 [Aula 7](modulo01/aula07/) <br> 
 [Aula 8](modulo01/aula08/) <br> 
 [Aula 9](modulo01/aula09/) <br> 
