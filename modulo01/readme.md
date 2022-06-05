@@ -103,16 +103,16 @@ inicie o servidor novamente com o nome da pasta do exercício
 [Aula 4](./aula04/) <br> 
 [Aula 5](./aula05/) <br> 
 [Aula 6](./aula06/) <br>
-[Aula 7](modulo01/aula07/) <br> 
-[Aula 8](modulo01/aula08/) <br> 
-[Aula 9](modulo01/aula09/) <br> 
-[Aula 10](modulo01/aula10/) <br>
-[Aula 11](modulo01/aula11/) <br>
-[Aula 12](modulo01/aula12/) <br>   
-[Projeto](modulo01/projeto/) <br>
+[Aula 7](./aula07/) <br> 
+[Aula 8](./aula08/) <br> 
+[Aula 9](./aula09/) <br> 
+[Aula 10](./aula10/) <br>
+[Aula 11](./aula11/) <br>
+[Aula 12](./aula12/) <br>   
+[Projeto](./projeto/) <br>
 
 ## Screenshot produtos.php (aula 07)
-![Imagem da pagina de produtos](modulo01/img/Screenshot%20from%202022-06-05%2018-54-55.png) 
+![Alt produtos](./img/Screenshot%20from%202022-06-05%2018-54-55.png) 
 
 ## Referência
 
