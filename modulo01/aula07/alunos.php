@@ -56,7 +56,7 @@ $alunos = [
     $a4,
 ];
 
-var_dump($alunos);
+//var_dump($alunos);
 
 ?>
 
