@@ -81,12 +81,12 @@ php --version
 
 Para executar os exercícios, após a instalação do php em sua máquina, siga os passos a seguir
 - Clone este repositório
-- abra o seu terminal e navegue até a pasta logica-programacao
+- abra o seu terminal e navegue até a pasta modulo01
 - execute o seguinte comando para iniciar o servidor local php:
 
 ```bash
     php -S localhost:8000 -t [nome da pasta que contem o exercicio]
-    Ex: php -S localhost:8000 -t exercicio01
+    Ex: php -S localhost:8000 -t aula01
 ```
 Para executar outro exercício, é necessário encerrar a execução anterior:
 ```bash
